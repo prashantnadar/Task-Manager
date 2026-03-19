@@ -1,4 +1,4 @@
-# 🚀 Task Manager App (TaskFlow)
+# 🚀 Task Manager (TaskFlow)
 
 A modern, production-style task management application built using **React, TypeScript, Redux Toolkit, and Tailwind CSS**.
 
@@ -38,7 +38,6 @@ It simulates a real-world productivity SaaS tool similar to Trello / Jira (front
 - Reusable UI components
 - Persistent state layer (localStorage sync)
 
-
 ## 📸 Screenshots
 
 ### Dashboard
@@ -52,7 +51,6 @@ It simulates a real-world productivity SaaS tool similar to Trello / Jira (front
 ### Edit Task Modal
 
 ![Edit Task](./screenshots/edit-task.png)
-
 
 ## 📄 License
 

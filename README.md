@@ -37,3 +37,8 @@ It simulates a real-world productivity SaaS tool similar to Trello / Jira (front
 - Memoized selectors (performance optimized)
 - Reusable UI components
 - Persistent state layer (localStorage sync)
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

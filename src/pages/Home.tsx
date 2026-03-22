@@ -137,7 +137,7 @@ function Home() {
       {/* HEADER */}
       <div className="flex justify-between items-center">
         <div>
-          <h1 className="text-3xl font-bold">TaskFlow Dashboard</h1>
+          <h1 className="text-3xl font-bold">Task Manager Dashboard</h1>
           <p className="text-gray-500">
             Manage tasks like a pro 🚀
           </p>

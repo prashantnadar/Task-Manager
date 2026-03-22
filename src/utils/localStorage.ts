@@ -1,6 +1,6 @@
 import type { Task } from "../types";
 
-const KEY = "taskflow_tasks";
+const KEY = "Task Manager_tasks";
 
 /**
  * Load tasks from localStorage

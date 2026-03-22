@@ -1,4 +1,4 @@
-# 🚀 Task Manager (TaskFlow)
+# 🚀 Task Manager (Task Manager)
 
 A modern, production-style task management application built using **React, TypeScript, Redux Toolkit, and Tailwind CSS**.
 

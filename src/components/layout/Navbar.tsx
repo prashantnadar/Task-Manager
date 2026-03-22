@@ -1,7 +1,7 @@
-import { useTheme } from "../../context/ThemeContext";
+// import { useTheme } from "../../context/ThemeContext";
 
 function Navbar() {
-  const { theme, toggleTheme } = useTheme();
+  // const { theme, toggleTheme } = useTheme();
 
   return (
     <nav
@@ -10,7 +10,7 @@ function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
         {/* Logo */}
-        <h1 className="text-xl font-bold tracking-tight">TaskFlow</h1>
+        <h1 className="text-xl font-bold tracking-tight">Task Manager</h1>
         {/* Right Side */}
         <div className="flex items-center gap-4">
           {/* Nav Links (future scalable) */}
@@ -19,13 +19,13 @@ function Navbar() {
           </span>
 
           {/* Theme Toggle */}
-          <button
+          {/* <button
             onClick={toggleTheme}
             className="p-2 rounded-lg border 
   hover:bg-gray-100 dark:hover:bg-gray-800 transition"
           >
             {theme === "dark" ? "☀️" : "🌙"}
-          </button>
+          </button> */}
         </div>
       </div>
     </nav>
